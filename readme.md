@@ -7,3 +7,5 @@ La arquitectura propuesta es la siguiente:
 - Procesamiento y obtención de descriptores faciales.
 - Generación de ID y consulta en BD.
 - Gráficación del resultado y sistema de interacción (agregación de un nuevo registro).
+
+[Hola Guiex, modifica el README :)]
