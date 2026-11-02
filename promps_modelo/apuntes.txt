@@ -1,0 +1,7 @@
+En lugar que el modelo este esperando nuevos prompts, hacer que este se 
+despierte cuando el sistema de camaras detecte a una persona, para así hacer que
+el contexto en memoria se reinicie. Ademas que al inicio debe de hacer la 
+consulta de la base de datos para saber si el usuario ya interactuo antes 
+con el modelo, si es un usuario nuevo, debe de preguntarle su full_name. Esto
+podría no depender del modelo y hacer la inyección de contexto al despertar 
+el modelo.
